@@ -10,18 +10,10 @@
 <script src="script.js"></script>
 </head>
 
+
+<center>
 <body>
 
-<nav id="mainnav">
-	<p id="menuWrap"><a id="menu"><span id="menuBtn"></span></a></p>
-	<div class="panel">
-		<ul>
-			<li><a href="#header">TOP</a></li>
-			<li><a href="#sec01">New Post</a></li>
-			<li><a href="#sec03">SNS</a></li>
-		</ul>
-	</div>
-</nav>
 
 <header id="header">
 	<img src="header1.jpeg" width="150" height="54" alt="">
@@ -78,4 +70,7 @@
 </footer>
 
 </body>
+			
+</center>
+			
 </html>
